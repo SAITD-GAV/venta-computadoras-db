@@ -4,11 +4,11 @@
 
 | Campo       | Detalle                                   |
 |-------------|-------------------------------------------|
-| Nombre      | _[Tu nombre completo]_                    |
+| Nombre      | Gavilan Arestegui Saitd Diraks            |
 | Carrera     | Ingeniería de Sistemas e Informática      |
 | Universidad | Universidad Continental                   |
-| Asignatura  | _[Nombre de la asignatura]_               |
-| Docente     | _[Nombre del docente]_                    |
+| Asignatura  | Ingeniería Web                            |
+| Docente     | Gamarra Moreno Daniel                     |
 
 ## 📝 Descripción técnica
 
